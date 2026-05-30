@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+C_programing_in_linux/exercise1/obj/
+C_programing_in_linux/exercise1/lib/
+C_programing_in_linux/exercise1/main
+C_programing_in_linux/exercise2/build/
+C_programing_in_linux/exercise2/bin/
+C_programing_in_linux/exercise3/obj/
+C_programing_in_linux/exercise3/lib/
+C_programing_in_linux/exercise3/bin/
+C_programing_in_linux/exercise3/app.log
