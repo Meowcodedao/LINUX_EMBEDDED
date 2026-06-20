@@ -1,0 +1,11 @@
+[Unit]
+Description=Logger Service
+
+[Service]
+ExecStart=/usr/local/bin/logger
+StandardOutput=journal
+StandardError=journal
+Restart=no
+
+[Install]
+WantedBy=multi-user.target
